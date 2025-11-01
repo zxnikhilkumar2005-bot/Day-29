@@ -35,12 +35,3 @@ console.log(10>5 && 10<20);
 
 //f
 console.log(true&&false);
-console.log(true||false);
-console.log(!true);
-console.log(!false);
-console.log(!!true);
-console.log(!!false);
-console.log(!!!true);
-console.log(!!!false);
-console.log(!!!!true);
-console.log(!!!!false);
